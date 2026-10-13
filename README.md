@@ -1,31 +1,56 @@
-# 👋 Gustavo Henriques
+<h1 align="center">👋 Olá, eu sou o Gustavo Henriques</h1>
 
-`Desenvolvedor Júnior | C# .NET | React | Estudante de ADS | Limeira, Brasil`
+<p align="center">
+  <b>Desenvolvedor Júnior | C# .NET • React • PostgreSQL</b><br>
+  Estudante de Análise e Desenvolvimento de Sistemas · Limeira, SP 🇧🇷
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghenriquesdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
 
 ## 👤 Sobre mim
 
-Olá! Sou o **Gustavo**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor focado em **C# e .NET**.
+Gosto de transformar problemas reais em software que funciona de ponta a ponta: da modelagem do banco e das APIs até a interface do usuário.
 
-Gosto de transformar problemas reais em software. Meu principal projeto é o **LabCore**, um sistema de gestão para laboratórios de calibração, com APIs em .NET 10, PostgreSQL e React.
+Meu principal projeto é o **LabCore**, um sistema de gestão para laboratórios de calibração, onde apliquei arquitetura em camadas, autenticação JWT, controle de acesso por cargo e auditoria.
 
-Atualmente, sigo aprimorando meus conhecimentos e desenvolvendo projetos para evoluir como desenvolvedor 🚀
+🔭 Atualmente: evoluindo o LabCore e criando o portal do cliente em React
+🎯 Objetivo: atuar como desenvolvedor, crescendo com projetos desafiadores
+
+---
 
 ## 🚀 Projetos em destaque
 
-- **[LabCore](https://github.com/GustavoHenriques99/LabCore)**: gestão de laboratórios de calibração (.NET 10, PostgreSQL, React, JWT, auditoria e permissões por cargo)
-- **NeyBaterias**: loja de baterias automotivas (.NET 10 + React)
-- **Brinquedoteca**: projeto acadêmico em equipe
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| **[LabCore](https://github.com/GustavoHenriques99/LabCore)** | Gestão de laboratórios de calibração: equipamentos, clientes, histórico de calibração, dashboard, permissões por cargo e logs de auditoria | C#, .NET 10, PostgreSQL, React |
+| **[NeyBaterias](https://github.com/GustavoHenriques99/NeyBaterias)** | Gestão de estoque e vendas: controle de produtos e serviços, vendas com regras de desconto e gerenciamento de clientes | C#, .NET, React |
+| **[Brinquedoteca](https://github.com/GustavoHenriques99/Brinquedoteca)** | Sistema de gerenciamento de empréstimos, desenvolvido em equipe como projeto acadêmico | C# |
+| **[Hackathon Ouvidoria Limeira](https://github.com/GustavoHenriques99/Hackathon---Ouvidoria-Limeira)** | Extração de dados de PDFs da ouvidoria da cidade e apresentação em dashboards | Python, Power BI |
+
+---
 
 ## 💻 Tecnologias
 
+**Back-end**
+
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## ✉️ Contato
+**Front-end**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghenriquesdev/)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Banco de dados e ferramentas**
+
+![Postg
