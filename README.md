@@ -1,14 +1,8 @@
-<h1 align="center">Gustavo Henriques</h1>
+<h1 align="">Gustavo Henriques</h1>
 
-<p align="center">
+<p align="">
   <b>Desenvolvedor Backand | C# .NET • React • PostgreSQL</b><br>
   Estudante de Análise e Desenvolvimento de Sistemas · Limeira, SP 🇧🇷
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ghenriquesdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </p>
 
 ---
@@ -28,9 +22,15 @@ O principal deles é o LabCore, um sistema de gestão para laboratórios de cali
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| **[LabCore](https://github.com/GustavoHenriques99/LabCore)** | Gestão de laboratórios de calibração: equipamentos, clientes, histórico de calibração, dashboard, permissões por cargo e logs de auditoria | C#, .NET 10, PostgreSQL, React |
+| **[LabCore](https://github.com/GustavoHenriques99/LabCore)** | Gestão de laboratórios de calibração: equipamentos, clientes, histórico de calibração, dashboard, permissões por cargo e logs de auditoria | C#, .NET 10, PostgreSQL, React, JavaScript |
 | **[NeyBaterias](https://github.com/GustavoHenriques99/NeyBaterias)** | Gestão de estoque e vendas: controle de produtos e serviços, vendas com regras de desconto e gerenciamento de clientes | C#, .NET, React |
-| **[Brinquedoteca](https://github.com/GustavoHenriques99/Brinquedoteca)** | Sistema de gerenciamento de empréstimos, desenvolvido em equipe como projeto acadêmico | C# |
+
+<p align="">
+  <p>💻 Conecte-se Comigo </p>
+  <a href="https://www.linkedin.com/in/ghenriquesdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
@@ -95,8 +95,5 @@ O principal deles é o LabCore, um sistema de gestão para laboratórios de cali
 
 <p align="center">🙏 Muito obrigado pela visita!</p>
 
----
 
-## 📫 Vamos conversar?
 
-Estou aberto a oportunidades como desenvolvedor. Me chame no [LinkedIn](https://www.linkedin.com/in/ghenriquesdev/)!
