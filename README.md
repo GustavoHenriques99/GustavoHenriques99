@@ -87,12 +87,6 @@ O principal deles é o LabCore, um sistema de gestão para laboratórios de cali
 </p>
 
 ---
-
-<p align="center">
-  <b>Quantidade de pessoas que visitaram esta página:</b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=GustavoHenriques99&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=orange&style=flat" alt="Visualizações do perfil" />
-</p>
-
 <p align="center">🙏 Muito obrigado pela visita!</p>
 
 
